@@ -1,0 +1,8 @@
+*.zip
+*.tsv
+*.csv
+*.db
+*.json
+__pycache__/
+.streamlit/
+scratch*.py
